@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    height: 90%;
+    min-width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .loader {
+    margin: 0 auto;
+}
